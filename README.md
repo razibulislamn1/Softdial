@@ -1,101 +1,161 @@
-<div align="center"><img src="docs/banner.svg" alt="Soft Dial" width="100%"/><br/>📞 Simple calls. Clear sound. A premium experience.
+<div align="center">
 
-<br/>[
+# 📞 Soft Dial
 
-"Join on Telegram" (https://img.shields.io/badge/✈️_Telegram-Join_our_Group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
+### Simple calls. Clear sound. A premium experience.
 
-](https://t.me/soft_dial)
-[
+<a href="https://t.me/soft_dial"><img src="https://img.shields.io/badge/Join%20us%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join us on Telegram"></a>
 
-"Android" (https://img.shields.io/badge/Android-App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br>
 
-](#-build)
-[
+✨ **Features** &nbsp;•&nbsp; 🖥️ **Servers** &nbsp;•&nbsp; 💎 **Premium** &nbsp;•&nbsp; 📲 **Community**
 
-"SIP" (https://img.shields.io/badge/SIP-Calling-8B5CF6?style=for-the-badge)
-
-](#-two-servers)
-[
-
-"Premium" (https://img.shields.io/badge/💎_Premium-Coming_Soon-F59E0B?style=for-the-badge)
-
-](#-premium--coming-soon)
-
-"✨ Features" (#-features)  • 
-"🖥️ Servers" (#-two-servers)  • 
-"💎 Premium" (#-premium--coming-soon)  • 
-"📲 Community" (#-stay-connected)
-
-</div>---
-
-🌟 What is Soft Dial?
-
-Soft Dial is a light, elegant and easy-to-use Android calling app. Enter your SIP details, type a number and tap once. No fuss, no complexity.
+</div>
 
 ---
 
-✨ Features
+<div align="center">
 
-| Feature| Description
-📞| One-tap calling| Register, enter a number, call. It's that simple.
-🎧| Clear calls| A clean, natural conversation experience.
-🖥️| Two powerful servers| Switch between them with a single tap, whichever you prefer.
-🪶| Ultra lightweight| Opens fast and never slows your phone down.
-🔒| Privacy first| No separate login, and nothing is stored on your device.
-🎨| Modern design| Beautiful colors, a smooth interface and an eye-friendly dark theme.
-✈️| Community support| Join our Telegram group straight from the app.
+## 🌟 What is Soft Dial?
 
----
+Soft Dial is a light, elegant and easy-to-use Android calling app.<br>
+Enter your SIP details, type a number and tap once.<br>
+**No fuss, no complexity.**
 
-🖥️ Two Servers
-
-Soft Dial comes with two servers, and switching between them takes just one tap.
-
-<div align="center">🟣 Server 1| 🔵 Server 2
-Ready to use with a single tap| Ready to use with a single tap
-
-</div>---
-
-💎 Premium | Coming Soon
-
-We keep making Soft Dial better every day. The Premium experience is arriving soon:
-
-- 💎  Exclusive Premium features
-- 🎙️  An even sharper, clearer calling experience
-- 🎨  More themes and customization
-- ⚡  Faster and more stable connections
-- 🚀  And much more in the future, to make every call a joy
-
-«We're working towards something bigger! Exciting Premium services, improved calling experiences and powerful new features are planned for the future. Stay connected and be part of the journey.»
-
-«Stay in our group to be the first to know 👇»
+</div>
 
 ---
 
-📲 Stay Connected
+<div align="center">
 
-To get new updates, new features and every announcement first, join our Telegram group.
+## ✨ Features
 
-<div align="center">👉 "✈️ Join us on Telegram: t.me/soft_dial" (https://t.me/soft_dial) 👈
+</div>
 
-[
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📞 One-tap calling</h3>
+      Register, enter a number, call.<br>It's that simple.
+    </td>
+    <td align="center" width="50%">
+      <h3>🎧 Clear calls</h3>
+      A clean, natural<br>conversation experience.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🖥️ Two powerful servers</h3>
+      Switch between them with a single tap,<br>whichever you prefer.
+    </td>
+    <td align="center" width="50%">
+      <h3>🪶 Ultra lightweight</h3>
+      Opens fast and never slows<br>your phone down.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔒 Privacy first</h3>
+      No separate login, and nothing<br>is stored on your device.
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Modern design</h3>
+      Beautiful colors, a smooth interface<br>and an eye-friendly dark theme.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>✈️ Community support</h3>
+      Join our Telegram group straight from the app.
+    </td>
+  </tr>
+</table>
 
-"Join Telegram" (https://img.shields.io/badge/✈️_Join_Now-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
+---
 
-](https://t.me/soft_dial)
+<table>
+  <tr>
+    <td width="55%" align="left">
+      <h2>🖥️ Servers</h2>
+      Soft Dial comes with two servers, and switching between them takes just one tap.
+    </td>
+    <td width="45%" align="right">
+      <h3>🆕 New Premium Server</h3>
+      A brand-new Premium server is on the way.<br>
+      The Linphone server will be retired and replaced by it.
+    </td>
+  </tr>
+</table>
 
-</div>---
+---
 
-🛠️ Build
+<table>
+  <tr>
+    <td width="40%" align="left">
+      <h2>💎 Premium</h2>
+      <b>Coming Soon</b><br><br>
+      We keep making Soft Dial better every day.<br>
+      More premium services are on the way, with many more great things to come.
+    </td>
+    <td width="60%" align="left">
+      <br>
+      💎 &nbsp;<b>Exclusive Premium features</b><br><br>
+      🖥️ &nbsp;<b>A brand-new Premium server</b><br><br>
+      🎙️ &nbsp;<b>An even sharper, clearer calling experience</b><br><br>
+      🎨 &nbsp;<b>More themes and customization</b><br><br>
+      ⚡ &nbsp;<b>Faster and more stable connections</b><br><br>
+      🚀 &nbsp;<b>And much more, to make every call a joy</b>
+    </td>
+  </tr>
+</table>
 
-Requires JDK 17 and the Android SDK.
+<div align="center">
 
+**Stay in our group to be the first to know 👇**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📲 Stay Connected
+
+To get new updates, new features and every announcement first,<br>
+join our Telegram community.
+
+<br>
+
+<a href="https://t.me/soft_dial"><img src="https://img.shields.io/badge/Join%20us%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join us on Telegram"></a>
+
+<br>
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <h3>🛠️ Build</h3>
+      Requires JDK 17 and the Android SDK.
+    </td>
+    <td width="50%" align="right">
+
+```bash
 ./gradlew assembleDebug
+```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center"><br/>Made with ❤️ — Soft Dial
+<div align="center">
 
-<sub>Credits: <b>Belledonne Communications</b> (<b>Linphone</b>) · <b>Teluu</b> (<b>PJSIP</b>)</sub>
+Made with ❤️ — **Soft Dial**
+
+<sub>Credits: Belledonne Communications (Linphone) · Teluu (PJSIP)</sub>
 
 </div>
