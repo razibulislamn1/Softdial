@@ -203,13 +203,11 @@ Made with ❤️ — **Soft Dial**
 
 <br>
 
-<sub><b>CREDITS</b></sub>
+<sub>
 
-<img src="https://img.shields.io/badge/BRShip-Server-7C3AED?style=flat-square" alt="BRShip">
-<img src="https://img.shields.io/badge/Teluu-PJSIP-26A5E4?style=flat-square" alt="Teluu PJSIP">
+**Credits** &nbsp;·&nbsp; Currently: BRShip · Teluu (PJSIP)<br>
+Previously: Belledonne Communications (Linphone) — *removed*
 
-<sub>Previously: Belledonne Communications (Linphone) — removed</sub>
-
-<br>
+</sub>
 
 </div>
