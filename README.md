@@ -1,55 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:26A5E4&height=260&section=header&text=Soft%20Dial&fontSize=76&fontColor=ffffff&fontAlignY=42&animation=fadeIn&stroke=26A5E4&strokeWidth=2&desc=A%20premium%20SIP%20calling%20experience&descSize=20&descAlignY=66&descColor=cfe9ff" width="100%" alt="Soft Dial">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070F,45:141B3D,100:26A5E4&height=280&section=header&text=Soft%20Dial&fontSize=78&fontColor=F5D77A&fontAlignY=40&animation=fadeIn&stroke=D4AF37&strokeWidth=3&desc=A%20premium%20SIP%20calling%20experience&descSize=20&descAlignY=64&descColor=E8F4FF" width="100%" alt="Soft Dial">
 
-<a href="https://t.me/soft_dial"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=26A5E4&center=true&vCenter=true&width=640&lines=Simple+calls.;Clear+sound.;A+premium+experience.;One+tap.+That's+it." alt="Typing animation"></a>
+<a href="https://t.me/soft_dial"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Simple+calls.;Clear+sound.;A+premium+experience.;One+tap.+That's+it." alt="Typing animation"></a>
 
 <br><br>
 
 <a href="https://t.me/soft_dial"><img src="https://img.shields.io/badge/Join%20us%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Protocol-SIP-7C3AED?style=for-the-badge" alt="SIP">
-<img src="https://img.shields.io/badge/Premium-Coming%20Soon-F59E0B?style=for-the-badge&logo=starship&logoColor=white" alt="Premium">
-
-<br><br>
-
-✨ **Features** &nbsp;•&nbsp; 🖥️ **Servers** &nbsp;•&nbsp; 💎 **Premium** &nbsp;•&nbsp; 📲 **Community** &nbsp;•&nbsp; 🛠️ **Build**
+<img src="https://img.shields.io/badge/Premium-Coming%20Soon-D4AF37?style=for-the-badge&logo=starship&logoColor=white" alt="Premium">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## 🌟 What is Soft Dial?
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=What%20is%20Soft%20Dial%3F&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="What is Soft Dial?">
 
 Soft Dial is a light, elegant and easy-to-use Android calling app.<br>
-Enter your SIP details, type a number and tap once.<br>
+Enter your SIP details, type a number and tap once.<br><br>
 **No fuss, no complexity — just a premium calling experience.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## ✨ Features
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=Features&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="Features">
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>📞 One-tap calling</h3>
       Register, enter a number, call.<br>It's that simple.
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🎧 Crystal-clear calls</h3>
       A clean, natural<br>conversation experience.
     </td>
-    <td align="center" width="33%">
-      <h3>🖥️ Two powerful servers</h3>
-      <b>BRShip</b> and <b>PJSIP</b> — switch<br>between them with a single tap.
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🖥️ Two servers</h3>
+      Switch between them with a single tap,<br>without re-entering anything.
+    </td>
+    <td align="center">
+      <h3>⚡ Instant registration</h3>
+      Live status shows the moment<br>your SIP account is ready.
     </td>
   </tr>
   <tr>
@@ -61,19 +63,11 @@ Enter your SIP details, type a number and tap once.<br>
       <h3>🔒 Privacy first</h3>
       No separate login, and nothing<br>is stored on your device.
     </td>
-    <td align="center">
-      <h3>🎨 Modern design</h3>
-      Beautiful colors, a smooth interface<br>and an eye-friendly dark theme.
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <h3>⚡ Instant registration</h3>
-      Live status shows the moment<br>your SIP account is ready.
-    </td>
-    <td align="center">
-      <h3>🔁 Seamless switching</h3>
-      Change servers on the fly<br>without re-entering anything.
+      <h3>🎨 Modern design</h3>
+      Beautiful colors, a smooth interface<br>and an eye-friendly dark theme.
     </td>
     <td align="center">
       <h3>✈️ Community support</h3>
@@ -82,47 +76,28 @@ Enter your SIP details, type a number and tap once.<br>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## 🖥️ Servers
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=Servers&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="Servers">
 
-Two servers built in — switching takes just one tap.
+Soft Dial comes with **two servers**,<br>
+and switching between them takes just one tap.<br><br>
+A brand-new **Premium server** is on the way,<br>
+built for an even better calling experience.
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🟣 BRShip</h3>
-      <img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" alt="Live"><br><br>
-      Fast and reliable.
-    </td>
-    <td align="center" width="33%">
-      <h3>🔵 PJSIP</h3>
-      <img src="https://img.shields.io/badge/Powered%20by-Teluu-26A5E4?style=for-the-badge" alt="Teluu"><br><br>
-      Proven, industry-grade SIP stack.
-    </td>
-    <td align="center" width="33%">
-      <h3>🆕 Premium Server</h3>
-      <img src="https://img.shields.io/badge/Status-Coming%20Soon-F59E0B?style=for-the-badge" alt="Coming soon"><br><br>
-      Built for an even better<br>calling experience.
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-<sub>🔄 The Linphone server has been retired and replaced by <b>BRShip</b>.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## 💎 Premium
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=Premium&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="Premium">
 
-<img src="https://img.shields.io/badge/Coming%20Soon-F59E0B?style=for-the-badge&logo=starship&logoColor=white" alt="Coming Soon">
+<img src="https://img.shields.io/badge/Coming%20Soon-D4AF37?style=for-the-badge&logo=starship&logoColor=white" alt="Coming Soon">
+
+<br><br>
 
 We keep making Soft Dial better every day.<br>
 More premium services are on the way.
@@ -131,24 +106,26 @@ More premium services are on the way.
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>💎</h3>
       <b>Exclusive Premium<br>features</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🖥️</h3>
       <b>A brand-new<br>Premium server</b>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎙️</h3>
-      <b>An even sharper,<br>clearer calling experience</b>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <h3>🎙️</h3>
+      <b>An even sharper,<br>clearer calling experience</b>
+    </td>
+    <td align="center">
       <h3>🎨</h3>
       <b>More themes and<br>customization</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>⚡</h3>
       <b>Faster and more<br>stable connections</b>
@@ -166,11 +143,11 @@ More premium services are on the way.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## 📲 Stay Connected
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=Stay%20Connected&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="Stay Connected">
 
 To get new updates, new features and every announcement first,<br>
 join our Telegram community.
@@ -181,11 +158,11 @@ join our Telegram community.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070F,50:D4AF37,100:05070F&height=3" width="100%">
 
 <div align="center">
 
-## 🛠️ Build
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070F,100:1B2A5A&height=90&section=header&text=Build&fontSize=32&fontColor=F5D77A&stroke=D4AF37&strokeWidth=2&animation=fadeIn" width="80%" alt="Build">
 
 Requires **JDK 17** and the **Android SDK**.
 
@@ -195,19 +172,20 @@ Requires **JDK 17** and the **Android SDK**.
 ./gradlew assembleDebug
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:26A5E4&height=130&section=footer&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070F,50:141B3D,100:26A5E4&height=140&section=footer&animation=twinkling" width="100%">
 
 <div align="center">
 
 Made with ❤️ — **Soft Dial**
 
+</div>
+
 <br>
 
-<sub>
+<div align="center">
 
-**Credits** &nbsp;·&nbsp; Currently: BRShip · Teluu (PJSIP)<br>
-Previously: Belledonne Communications (Linphone) — *removed*
+<sub>**Credits** &nbsp;·&nbsp; Currently: BRShip · Teluu (PJSIP)</sub>
 
-</sub>
+<sub>Previously: Belledonne Communications (Linphone) — *removed*</sub>
 
 </div>
